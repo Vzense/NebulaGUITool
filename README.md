@@ -34,11 +34,11 @@ The ports of DS77 is like below:
 
 DS77-Lite
 
-<img src="PIC/image-20220530143846543.png" alt="image-20220530143846543" style="zoom:50%;" />
+<img src="Images/DS77-Lite.png" alt="image-DS77-Lite" style="zoom:50%;" />
 
 DS77-Pro
 
-<img src="PIC/image-20220530144208573.png" alt="image-20220530144208573" style="zoom:50%;" />
+<img src="Images/DS77-Pro.png" alt="image-DS77-Pro" style="zoom:50%;" />
 
 The steps are as below: 
 
@@ -52,7 +52,7 @@ Direct connection:
 
 One end is connected to the camera, and the other end is connected to the network cable interface of the PC host. The default IP of the camera is 192.168.1.101. On the PC side, set the subnet mask of "local connection" to 255.255.255.0, and the IP address to the same network segment (such as 192.168.1.100).
 
-![image-20220530140939858](PIC/image-20220530140939858.png)
+![image-20220530140939858](Images/direct_connection_config.png)
 
 
 
@@ -76,11 +76,11 @@ Follow the below steps to use DSUTool:
 
 
 
-![image-20220530141611070](PIC/image-20220530141611070.png)
+![image-20220530141611070](Images/firewall_alert.png)
 
 
 
-![image-20220530142722167](PIC/image-20220530142722167.png)
+![image-2022053014272216](Images/VzenseDSUTool.png)
 
 **Camera control Zone**
 
@@ -125,6 +125,6 @@ Follow the below steps to use DSUpgradeTool to upgrade the firmware of DS77:
 7. chose the correct image file 
 8. Click Upgrade and wait it success
 
-![image-20220530145223726](PIC/image-20220530145223726.png)
+![image-20220530145223726](Images/VzenseDSUpgradeTool.png)
 
-![image-20220530145241111](PIC/image-20220530145241111.png)
+![image-20220530145241111](Images/VzenseDSUpgradeTool_done.png)

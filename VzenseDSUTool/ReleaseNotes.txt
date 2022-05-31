@@ -1,0 +1,5 @@
+Ver1.0.10
+Fix the default mode value setting error
+
+Ver1.0.9
+First Version

@@ -16,13 +16,6 @@ The Tools repo have three parts:
 
   Display the 2D or 3D image of DS77 
 
-- VzenseDSUpgradeTool
-
-  Used for upgrade DS77 camera firmware 
-
-- VzenseDSConfigTool
-
-  Configurate the DS77 camera default parameter
 
 ------
 
@@ -84,47 +77,22 @@ Follow the below steps to use DSUTool:
 
 **Camera control Zone**
 
-Depth Range: Display the detect range
-
-DataMode: the DualFreq is the default mode, use 120M/20M.
+WorkMode: switch the camera working mode: ActiveMode/HardwareTriggerMode/SoftwareTriggerMode
 
 Color_Map_Max/Min:  change the color map in depth image show
 
-ExposureTime: adjust the exposure time, the maxiume is 1000us
+ToF ExposureTime: adjust the exposure time, the maxiume is 1000us
 
 IRGmmGain: adjust the digital gamma gain of IR image, the value range is 0-255
-
-Confidence: adjust the effect of confidence filter 
 
 **Image control Zone**
 
 Enable/Disable the Image window
 
+SaveImg: save the current image of showing once
+
+Record: Continuous save the showing image when enable it
+
 **Filter control Zone**
 
 Enable/Disable the Image filters
-
-**2D/3D Image Save**
-
-Once Save: save the current image of showing once
-
-Continuous Save: Continuous save the showing image when enable it
-
- 
-
-## 4 DSUpgradeTool
-
-Follow the below steps to use DSUpgradeTool to upgrade the firmware of DS77:
-
-1. Set up the camera module as described above in Section 2.
-2. Wait for the front of the camera to light up.
-3. Navigate to the root of the **DSUpgradeTool** package and run **DSUpgradeTool.exe**;
-4. Set permissions for the SDK to passthrough the system firewall, when you first run the Tool;
-5. Click **Scan DeviceList** to find the camera;
-6. Open and Connect the camera
-7. chose the correct image file 
-8. Click Upgrade and wait it success
-
-![image-20220530145223726](Images/VzenseDSUpgradeTool.png)
-
-![image-20220530145241111](Images/VzenseDSUpgradeTool_done.png)

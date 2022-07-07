@@ -1,0 +1,24 @@
+(2022-07-07 14:13:59.174 周四) Debug: File:() Line:(0) "\r\nNo rules match the specified criteria.\r\n\r\n"
+(2022-07-07 14:13:59.272 周四) Debug: File:() Line:(0) "Ok.\r\n\r\n"
+(2022-07-07 14:13:59.272 周四) Debug: File:() Line:(0) SetFirewall cost: 379
+(2022-07-07 14:13:59.532 周四) Debug: File:() Line:(0) init ui 0
+(2022-07-07 14:13:59.534 周四) Debug: File:() Line:(0) init ui 1
+(2022-07-07 14:13:59.958 周四) Warning: File:() Line:(0) QMetaObject::connectSlotsByName: No matching signal for on_spinBox_Slope_max_valueChanged(int)
+(2022-07-07 14:13:59.959 周四) Warning: File:() Line:(0) QMetaObject::connectSlotsByName: No matching signal for on_spinBox_Slope_min_valueChanged(int)
+(2022-07-07 14:13:59.972 周四) Debug: File:() Line:(0) init ui OK
+(2022-07-07 14:14:00.414 周四) Debug: File:() Line:(0) e:\workspace\picozenseutool\depthperceptionsystem\devicelist.cpp DS77CLite:VDS7CLCJC6300011P      0
+(2022-07-07 14:14:00.414 周四) Debug: File:() Line:(0) e:\workspace\picozenseutool\depthperceptionsystem\devicelist.cpp VDS7CLCJC6300011P      0
+(2022-07-07 14:14:02.933 周四) Debug: File:() Line:(0) START
+(2022-07-07 14:14:04.638 周四) Debug: File:() Line:(0) Control_Single::initializeDCAM VZ_SetColorPixelFormat  0
+(2022-07-07 14:14:04.825 周四) Debug: File:() Line:(0) Fc: CtlWidget::SlotDepthColorMapMaxSliderChanged   1249  depthColorMapMaxChanged: false
+(2022-07-07 14:14:05.572 周四) Debug: File:() Line:(0) Fc: CtlWidget::SlotConfidenceFilterSliderChanged   20  ConfidenceFilterChanged: false
+(2022-07-07 14:14:05.572 周四) Debug: File:() Line:(0) Fc: CtlWidget::SlotFlyingPixelFilterSliderChanged   15  FlyingPixelFilterChanged: false
+(2022-07-07 14:14:05.573 周四) Debug: File:() Line:(0) Fc: CtlWidget::SlotTimeFilterSliderChanged   1  TimeFilterChanged: false
+(2022-07-07 14:14:05.837 周四) Debug: File:() Line:(0) workMode: 0
+(2022-07-07 14:14:05.838 周四) Debug: File:() Line:(0) workMode: 0
+(2022-07-07 14:14:05.852 周四) Debug: File:() Line:(0) Fc: CtlWidget::SlotDepthColorMapMaxSliderChanged   7495  depthColorMapMaxChanged: false
+(2022-07-07 14:14:05.853 周四) Debug: File:() Line:(0) "dataMode:5 does not support changing depthrange ."
+(2022-07-07 14:14:07.212 周四) Debug: File:() Line:(0) Fc: CtlWidget::SlotIRGmmGainSliderChanged   64  irgmmgainChanged: false
+(2022-07-07 14:14:07.215 周四) Debug: File:() Line:(0) MyThread first frame   31
+(2022-07-07 14:14:07.216 周四) Debug: File:() Line:(0) START DONE
+(2022-07-07 14:14:07.274 周四) Debug: File:() Line:(0) ImageWidget first frame show   31

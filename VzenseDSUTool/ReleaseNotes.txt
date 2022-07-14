@@ -1,3 +1,6 @@
+Ver1.1.4
+Fixed some bugs
+
 Ver1.1.1
 Support RGB exposure time Settings
 

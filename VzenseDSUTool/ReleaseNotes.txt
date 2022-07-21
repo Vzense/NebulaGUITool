@@ -1,3 +1,8 @@
+Ver1.1.6
+1.Support Chinese path
+2.Modify the UI layout
+3.Fixed errors running on virtual machines
+
 Ver1.1.4
 Fixed some bugs
 

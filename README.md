@@ -1,18 +1,16 @@
 # DS77 Simple Guide
 
-
-
 ## 1 Download & Installation
 
 Download or clone the DS-Tools from our GitHub / Gitee:
 
-https://github.com/Vzense/DSTools
+https://github.com/Vzense/NebulaGUITool
 
-https://gitee.com/Vzense/DSTools
+https://gitee.com/Vzense/NebulaGUITool
 
 The Tools repo have three parts:
 
-- VzenseDSUTool
+- NebulaGUITool
 
   Display the 2D or 3D image of DS77 
 
@@ -43,48 +41,51 @@ One end is connected to the camera, and the other end is connected to the networ
 <img src="Images/direct_connection_config.png" alt="image-20220530140939858" width="300" style="zoom:25%" />
 
 
-## 3 DSUTool
+## 3 NebulaGUITool
 
-Follow the below steps to use DSUTool:
+Follow the below steps to use NebulaGUITool:
 
 1. Set up the camera module as described above in Section 2.
 
 2. Wait for the front of the camera to light up.
 
-3. Navigate to the root of the **VzenseDSUTool** package and run **VzenseDSUTool.exe**;
+3. Navigate to the root of the **NebulaGUITool** package and run **NebulaGUITool.exe**;
 
 4. Set permissions for the SDK to passthrough the system firewall, when you first run the Tool;
 
 5. Click **Scan DeviceList** to find the camera;
 
-6. DoubleClick the Camera Info in the devicelis or Click the Camera Mode first, then click **Start** in
-
-   DSUTool to begin stream capture
+6. DoubleClick the Camera Info in the devicelis or Click the Camera Mode first, then click **Start** in NebulaGUITool to begin stream capture
 
 
 <img src="Images/firewall_alert.png" alt="image-20220530141611070" width="400" style="zoom:25%" />
 
 
-<img src="Images/VzenseDSUTool.png" alt="image-2022053014272216" width="500" style="zoom:25%" />
+<img src="Images/NebulaGUITool.png" alt="image-2022053014272216" width="500" style="zoom:25%" />
 
 **Camera control Zone**
 
-WorkMode: switch the camera working mode: ActiveMode/HardwareTriggerMode/SoftwareTriggerMode
+* WorkMode: switch the camera working mode: ActiveMode/HardwareTriggerMode/SoftwareTriggerMode
 
-Color_Map_Max/Min:  change the color map in depth image show
+* Color_Map_Max/Min:  change the color map in depth image show
 
-ToF ExposureTime: adjust the exposure time, the maxiume is 1000us
+* IRGmmGain: adjust the digital gamma gain of IR image, the value range is 0-255
 
-IRGmmGain: adjust the digital gamma gain of IR image, the value range is 0-255
+* FrameRate:Adjust the frame rate of the image output
+ 
+
+**ExposureTime Zone**
+
+* Adjust the sensor exposure mode and exposure time
 
 **Image control Zone**
 
-Enable/Disable the Image window
+* Enable/Disable the Image window
 
-SaveImg: save the current image of showing once
+* SaveImg: save the current image of showing once
 
-Record: Continuous save the showing image when enable it
+* Record: Continuous save the showing image when enable it
 
 **Filter control Zone**
 
-Enable/Disable the Image filters
+* Enable/Disable the Image filters

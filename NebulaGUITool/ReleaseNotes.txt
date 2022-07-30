@@ -1,0 +1,25 @@
+Ver1.1.7
+Modifying the Tool Name: VzenseDSUTool -> NebulaGUITool
+
+Ver1.1.6
+1.Support Chinese path
+2.Modify the UI layout
+3.Fixed errors running on virtual machines
+
+Ver1.1.4
+Fixed some bugs
+
+Ver1.1.1
+Support RGB exposure time Settings
+
+Ver1.1.0
+Adjust the UI
+
+Ver1.0.11
+Fix depth map color mapping error
+
+Ver1.0.10
+Fix the default mode value setting error
+
+Ver1.0.9
+First Version

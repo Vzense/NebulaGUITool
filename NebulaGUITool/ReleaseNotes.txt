@@ -1,3 +1,6 @@
+Ver1.1.18
+Fixed some bugs
+
 Ver1.1.11
 1.Support for saving point clouds after alignment of color images
 2.Supports setting the exposure time of the sensor

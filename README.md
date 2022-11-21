@@ -72,7 +72,7 @@ Follow the below steps to use NebulaGUITool:
 * IRGmmGain: adjust the digital gamma gain of IR image, the value range is 0-255
 
 * FrameRate:Adjust the frame rate of the image output
- 
+
 
 **ExposureTime Zone**
 
@@ -89,3 +89,9 @@ Follow the below steps to use NebulaGUITool:
 **Filter control Zone**
 
 * Enable/Disable the Image filters
+
+## 4 Device Firmware List
+
+Google Drive:
+
+DS77:https://drive.google.com/drive/folders/13qQNdQe-apxVVRA4MOFL5KPAkV_PxumZ

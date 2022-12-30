@@ -1,1 +1,0 @@
-Firmware/Firmware_DS77_20220714_emmc_B24.img filter=lfs diff=lfs merge=lfs -text

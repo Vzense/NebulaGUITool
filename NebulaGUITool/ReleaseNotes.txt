@@ -1,5 +1,6 @@
-Ver1.1.18
-Fixed some bugs
+Ver1.1.19
+1.Fixed some bugs
+2.Match with NebulaSDK V1.1.19: Support HDR mode (support firmware version: after 20221207)
 
 Ver1.1.11
 1.Support for saving point clouds after alignment of color images

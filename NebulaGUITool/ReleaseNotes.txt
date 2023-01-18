@@ -1,3 +1,7 @@
+Ver1.1.20
+1.Match with NebulaSDK V1.1.20
+2.Fixed some bugs
+
 Ver1.1.19
 1.Fixed some bugs
 2.Match with NebulaSDK V1.1.19: Support HDR mode (support firmware version: after 20221207)

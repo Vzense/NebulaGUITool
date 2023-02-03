@@ -1,3 +1,6 @@
+Ver1.1.21
+1.Match with Firmware_DS77_20230130_emmc_B51
+
 Ver1.1.20
 1.Match with NebulaSDK V1.1.20
 2.Fixed some bugs

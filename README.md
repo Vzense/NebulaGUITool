@@ -92,6 +92,6 @@ Follow the below steps to use NebulaGUITool:
 
 ## 4 Device Firmware List
 
-Google Drive:
+The latest firmware (*.img) is released with the latest NebulaGUITool
 
-DS77:https://drive.google.com/drive/folders/13qQNdQe-apxVVRA4MOFL5KPAkV_PxumZ
+https://github.com/Vzense/NebulaGUITool/releases

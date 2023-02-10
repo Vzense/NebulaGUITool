@@ -18,13 +18,23 @@ The Tools repo have three parts:
 
 ## 2 Camera Setup
 
-DS77 camera have two type: DS77-Lite and DS77-Pro.
+DS77 camera have two type: DS77 and DS77C.
+
+| DS77  | DS77C |
+| ------------- | ------------- |
+| <img src="Images/DS77.png" alt="image-DS77" height="250" style="zoom:25%" />  |<img src="Images/DS77C.png" alt="image-DS77C" height="250" style="zoom:25%" />  |
 
 The ports of DS77 is like below:
 
 | DS77-Lite  | DS77-Pro |
 | ------------- | ------------- |
 | <img src="Images/DS77-Lite.png" alt="image-DS77-Lite" height="250" style="zoom:25%" />  |<img src="Images/DS77-Pro.png" alt="image-DS77-Pro" height="250" style="zoom:25%" />  |
+
+The ports of DS77C is like below:
+
+| DS77C-Lite  | DS77C-Pro |
+| ------------- | ------------- |
+| <img src="Images/DS77C-Lite.png" alt="image-DS77C-Lite" height="250" style="zoom:25%" />  |<img src="Images/DS77C-Pro.png" alt="image-DS77C-Pro" height="250" style="zoom:25%" />  |
 
 The steps are as below: 
 
@@ -72,7 +82,7 @@ Follow the below steps to use NebulaGUITool:
 * IRGmmGain: adjust the digital gamma gain of IR image, the value range is 0-255
 
 * FrameRate:Adjust the frame rate of the image output
-
+ 
 
 **ExposureTime Zone**
 
@@ -89,9 +99,3 @@ Follow the below steps to use NebulaGUITool:
 **Filter control Zone**
 
 * Enable/Disable the Image filters
-
-## 4 Device Firmware List
-
-The latest firmware (*.img) is released with the latest NebulaGUITool
-
-https://github.com/Vzense/NebulaGUITool/releases

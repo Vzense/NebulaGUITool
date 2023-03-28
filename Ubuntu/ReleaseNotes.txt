@@ -1,0 +1,45 @@
+Ver1.2.1
+1.Match with NebulaSDK V1.2.1
+2.Support DS86/87
+3.Add GUITool for Ubuntu18/20/22
+
+Ver1.1.21
+1.Match with Firmware_DS77_20230130_emmc_B51
+
+Ver1.1.20
+1.Match with NebulaSDK V1.1.20
+2.Fixed some bugs
+
+Ver1.1.19
+1.Fixed some bugs
+2.Match with NebulaSDK V1.1.19: Support HDR mode (support firmware version: after 20221207)
+
+Ver1.1.11
+1.Support for saving point clouds after alignment of color images
+2.Supports setting the exposure time of the sensor
+
+Ver1.1.7
+Modifying the Tool Name: VzenseDSUTool -> NebulaGUITool
+
+Ver1.1.6
+1.Support Chinese path
+2.Modify the UI layout
+3.Fixed errors running on virtual machines
+
+Ver1.1.4
+Fixed some bugs
+
+Ver1.1.1
+Support RGB exposure time Settings
+
+Ver1.1.0
+Adjust the UI
+
+Ver1.0.11
+Fix depth map color mapping error
+
+Ver1.0.10
+Fix the default mode value setting error
+
+Ver1.0.9
+First Version

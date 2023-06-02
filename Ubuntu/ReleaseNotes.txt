@@ -1,3 +1,7 @@
+Ver1.2.4
+1.Match with NebulaSDK V1.2.4
+2.Optimizate code
+
 Ver1.2.1
 1.Match with NebulaSDK V1.2.1
 2.Support DS86/87

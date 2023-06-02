@@ -1,0 +1,4 @@
+- NebulaGUITool is the main progrem.
+- Support double click run.
+- Support Ubuntu 18.04.5|Ubuntu 20.04.1|and Ubuntu higher version.
+- Please ensure that you are running the program with root privileges!

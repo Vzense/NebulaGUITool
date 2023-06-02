@@ -1,3 +1,12 @@
+Ver1.2.4
+1.Match with NebulaSDK V1.2.4
+2.Optimizate code
+
+Ver1.2.1
+1.Match with NebulaSDK V1.2.1
+2.Support DS86/87
+3.Add GUITool for Ubuntu18/20/22
+
 Ver1.1.21
 1.Match with Firmware_DS77_20230130_emmc_B51
 

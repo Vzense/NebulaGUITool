@@ -1,3 +1,6 @@
+Ver1.2.7
+1.Match with NebulaSDK V1.2.7
+
 Ver1.2.4
 1.Match with NebulaSDK V1.2.4
 2.Optimizate code

@@ -1,3 +1,11 @@
+Ver1.3.1
+1.Match with NebulaSDK V1.3.1
+2.Optimizate code
+
+Ver1.3.0
+1.Match with NebulaSDK V1.3.0
+2.Support DCAM650
+
 Ver1.2.7
 1.Match with NebulaSDK V1.2.7
 
